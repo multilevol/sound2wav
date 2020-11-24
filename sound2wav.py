@@ -1,4 +1,4 @@
-"""Record audio with a set amount of time and save the recording to a wav file."""
+"""Record audio for a set amount of time and save the recording to a wav file."""
 
 import pyaudio
 import wave
